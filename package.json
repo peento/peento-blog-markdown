@@ -1,0 +1,25 @@
+{
+  "name": "peento-blog-markdown",
+  "version": "0.0.1",
+  "description": "Markdown support for peento-blog",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peento/peento-blog-markdown.git"
+  },
+  "keywords": [
+    "blog",
+    "peento",
+    "Simditor"
+  ],
+  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peento/peento-blog-markdown/issues"
+  },
+  "homepage": "https://github.com/peento/peento-blog-markdown",
+  "dependencies": {}
+}
